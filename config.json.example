@@ -1,7 +1,7 @@
 {
-    "adminChannel" : "music-admin",
+    "adminChannel" : "music",
     "standardChannel" : "music",
-    "sonos" : "IP_TO_SONOS",
+    "sonosIP" : "IP_TO_SONOS",
     "token" : "SLACK:TOKEN",
     "market" : "US",
     "maxVolume" : 75,
